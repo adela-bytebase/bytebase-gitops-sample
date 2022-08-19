@@ -1,0 +1,1 @@
+ALTER TABLE employee ADD nick VARCHAR(255);
